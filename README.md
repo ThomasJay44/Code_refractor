@@ -1,13 +1,12 @@
-# <Your-Project-Title>
+# <Horiseon Seo Page Refractor Homework>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Refactored code in multiple ways
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- Removed and reorganized redundant CSS classes
+- Cleaned and condensed spaced out code to make more easily viewable
+- Restructured code with semantic html tags from Div to Header/body/article/footer
 
 ## Table of Contents (Optional)
 
@@ -36,9 +35,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 List your collaborators, if any, with links to their GitHub profiles.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+https://github.com/ThomasJay44
 
 ## License
 
@@ -65,3 +62,8 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
+## Screenshot
+![image](./Develop/assets/images/Screenshot.jpg)
+
+Link [Horiseon Seo](https://thomasjay44.github.io/Code_refractor/)
